@@ -1,0 +1,1 @@
+<script src="assets/app/js/register.js"></script> <!-- Delete this line if you don't want offline support -->
