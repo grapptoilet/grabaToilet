@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kanit');
 #map {
-    height: 95vh;
+    height: 89vh;
 }
 
 html, body {
@@ -8,7 +8,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Kanit', sans-serif;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .topnav {
@@ -25,7 +25,7 @@ html, body {
     text-align: center;
     padding: 2px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 /* Change the color of links on hover */
@@ -147,4 +147,13 @@ html, body {
     border: none;
     border-radius: 5px;
     vertical-align: middle;
+}
+
+.cropped {
+    widows: 266px;
+            height: 190px;
+            background-position: center center ;
+            background-repeat: no-repeat;
+            transition: 0.3s;
+            border-radius: 5px;
 }
