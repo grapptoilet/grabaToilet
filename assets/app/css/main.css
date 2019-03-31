@@ -4,8 +4,12 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: 
-  }
+}
 
-  #map {
+.landingPage {
+  background-color: #F2E002;
+}
+
+#map {
     height: 100%;
-  }
+}
